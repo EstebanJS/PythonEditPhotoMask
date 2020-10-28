@@ -12,7 +12,7 @@
 ---
     python main.py
 ---
-* 5.Las imagenes resultado apareceran en la carpeta FaceWithMask
+* 5.Las imagenes resultado apareceran en la carpeta FaceWithMask, si no esta hay que crearla
 
 ### Advertencia
 No a todas las imagenes se les puede poner mascara revizar.
